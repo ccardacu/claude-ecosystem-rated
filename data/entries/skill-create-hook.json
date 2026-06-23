@@ -1,0 +1,20 @@
+{
+  "id": "skill-create-hook",
+  "name": "Create Hook (Cursor)",
+  "url": "https://github.com/cursor/skills-cursor/tree/main/create-hook",
+  "repo": "https://github.com/cursor/skills-cursor",
+  "category": "agent-skill",
+  "description": "Cursor skill for building hooks that automate agent workflows and guardrails.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 4,
+    "utility": 4,
+    "trust": 5
+  },
+  "evidence": [
+    "https://github.com/cursor/skills-cursor/blob/main/create-hook/SKILL.md"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

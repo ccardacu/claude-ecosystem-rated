@@ -1,0 +1,20 @@
+{
+  "id": "cursor-rule-frontend-a11y",
+  "name": "Frontend A11y Rules (Cursor Directory)",
+  "url": "https://cursor.directory/rules/accessibility",
+  "repo": "https://github.com/cursor-directory/rules",
+  "category": "cursor-rule",
+  "description": "Curated accessibility rules for WCAG-aligned React and Next.js development.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 3,
+    "utility": 4,
+    "trust": 4
+  },
+  "evidence": [
+    "https://cursor.directory/rules/accessibility"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

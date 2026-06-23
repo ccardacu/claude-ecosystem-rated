@@ -1,0 +1,19 @@
+{
+  "id": "cli-cursor-agent",
+  "name": "Cursor Agent CLI",
+  "url": "https://docs.cursor.com/en/cli/overview",
+  "category": "cli",
+  "description": "Cursor CLI for running the agent from terminal and CI pipelines.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 4,
+    "utility": 4,
+    "trust": 5
+  },
+  "evidence": [
+    "https://docs.cursor.com/en/cli/overview"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

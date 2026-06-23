@@ -1,0 +1,35 @@
+name: Update rating
+description: Request a rating change for an existing entry
+title: "Update rating: "
+labels: ["update-rating"]
+body:
+  - type: input
+    id: entry-id
+    attributes:
+      label: Entry ID
+      placeholder: e.g. mcp-github
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: What changed?
+      description: Describe why ratings should change (new release, broken docs, security issue, etc.)
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence links
+      description: URLs to releases, issues, changelogs, or documented experience
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I will open a PR updating the JSON and README
+          required: true
+        - label: I updated lastVerified to today's date
+          required: true

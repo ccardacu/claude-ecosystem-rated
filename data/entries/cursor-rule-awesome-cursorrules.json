@@ -1,0 +1,20 @@
+{
+  "id": "cursor-rule-awesome-cursorrules",
+  "name": "Awesome Cursor Rules",
+  "url": "https://github.com/PatrickJS/awesome-cursorrules",
+  "repo": "https://github.com/PatrickJS/awesome-cursorrules",
+  "category": "cursor-rule",
+  "description": "Community collection of Cursor rules for frameworks, languages, and workflows.",
+  "ratings": {
+    "documentation": 3,
+    "maintenance": 3,
+    "utility": 5,
+    "trust": 3
+  },
+  "evidence": [
+    "https://github.com/PatrickJS/awesome-cursorrules#readme"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

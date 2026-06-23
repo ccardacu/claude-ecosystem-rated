@@ -1,0 +1,51 @@
+name: Add entry
+description: Propose a new rated tool for the catalog
+title: "Add entry: "
+labels: ["add-entry"]
+body:
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool name
+      placeholder: e.g. GitHub MCP Server
+    validations:
+      required: true
+  - type: input
+    id: tool-url
+    attributes:
+      label: Primary URL
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - mcp-server
+        - agent-skill
+        - cursor-rule
+        - hook
+        - plugin
+        - cli
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why should this be listed?
+      description: What problem does it solve? Include evidence links.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I will open a PR with `data/entries/{id}.json` (not just this issue)
+          required: true
+        - label: I included evidence URLs supporting my ratings
+          required: true
+        - label: I set maintainerDisclosure if I maintain this tool
+          required: false

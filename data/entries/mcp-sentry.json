@@ -1,0 +1,22 @@
+{
+  "id": "mcp-sentry",
+  "name": "Sentry MCP Server",
+  "url": "https://github.com/getsentry/sentry-mcp",
+  "repo": "https://github.com/getsentry/sentry-mcp",
+  "category": "mcp-server",
+  "description": "Official Sentry MCP for issues, traces, Seer analysis, and production debugging in agents.",
+  "ratings": {
+    "documentation": 5,
+    "maintenance": 5,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://github.com/getsentry/sentry-mcp#readme",
+    "https://mcp.sentry.dev/",
+    "https://github.com/getsentry/sentry-mcp/releases"
+  ],
+  "compatibleClients": ["claude-code", "cursor", "windsurf"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "plugin-claude-code-plugins",
+  "name": "Claude Code Plugins",
+  "url": "https://docs.anthropic.com/en/docs/claude-code/plugins",
+  "category": "plugin",
+  "description": "Official plugin system extending Claude Code with commands, skills, and MCP bundles.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 5,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://docs.anthropic.com/en/docs/claude-code/plugins",
+    "https://github.com/anthropics/claude-plugins-official"
+  ],
+  "compatibleClients": ["claude-code"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

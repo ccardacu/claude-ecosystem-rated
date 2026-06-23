@@ -1,0 +1,20 @@
+{
+  "id": "plugin-cursor-marketplace",
+  "name": "Cursor Marketplace",
+  "url": "https://cursor.com/marketplace",
+  "category": "plugin",
+  "description": "Official marketplace for Cursor plugins, MCP servers, and extension bundles.",
+  "ratings": {
+    "documentation": 3,
+    "maintenance": 4,
+    "utility": 4,
+    "trust": 5
+  },
+  "evidence": [
+    "https://cursor.com/marketplace",
+    "https://docs.cursor.com/en/plugins"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

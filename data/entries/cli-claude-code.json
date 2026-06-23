@@ -1,0 +1,20 @@
+{
+  "id": "cli-claude-code",
+  "name": "Claude Code CLI",
+  "url": "https://docs.anthropic.com/en/docs/claude-code",
+  "category": "cli",
+  "description": "Anthropic terminal agent for coding, refactoring, and repo-aware automation.",
+  "ratings": {
+    "documentation": 5,
+    "maintenance": 5,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://docs.anthropic.com/en/docs/claude-code/overview",
+    "https://github.com/anthropics/claude-code"
+  ],
+  "compatibleClients": ["claude-code"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

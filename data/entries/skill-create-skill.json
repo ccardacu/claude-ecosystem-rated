@@ -1,0 +1,20 @@
+{
+  "id": "skill-create-skill",
+  "name": "Create Skill (Cursor)",
+  "url": "https://github.com/cursor/skills-cursor/tree/main/create-skill",
+  "repo": "https://github.com/cursor/skills-cursor",
+  "category": "agent-skill",
+  "description": "Cursor skill for authoring Agent Skills with correct structure and best practices.",
+  "ratings": {
+    "documentation": 5,
+    "maintenance": 4,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://github.com/cursor/skills-cursor/blob/main/create-skill/SKILL.md"
+  ],
+  "compatibleClients": ["cursor", "claude-code"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

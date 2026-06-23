@@ -1,0 +1,20 @@
+{
+  "id": "skill-create-rule",
+  "name": "Create Rule (Cursor)",
+  "url": "https://github.com/cursor/skills-cursor/tree/main/create-rule",
+  "repo": "https://github.com/cursor/skills-cursor",
+  "category": "agent-skill",
+  "description": "Cursor skill for creating persistent AI rules and coding standards in projects.",
+  "ratings": {
+    "documentation": 5,
+    "maintenance": 4,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://github.com/cursor/skills-cursor/blob/main/create-rule/SKILL.md"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

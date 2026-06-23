@@ -1,0 +1,21 @@
+{
+  "id": "mcp-filesystem",
+  "name": "Filesystem MCP Server",
+  "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+  "repo": "https://github.com/modelcontextprotocol/servers",
+  "category": "mcp-server",
+  "description": "Reference MCP server for secure local file read, write, and directory operations.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 4,
+    "utility": 5,
+    "trust": 4
+  },
+  "evidence": [
+    "https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/README.md",
+    "https://modelcontextprotocol.io/examples"
+  ],
+  "compatibleClients": ["claude-code", "cursor", "claude-desktop", "windsurf"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

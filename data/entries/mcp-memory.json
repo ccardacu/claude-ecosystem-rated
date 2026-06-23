@@ -1,0 +1,20 @@
+{
+  "id": "mcp-memory",
+  "name": "Memory MCP Server",
+  "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+  "repo": "https://github.com/modelcontextprotocol/servers",
+  "category": "mcp-server",
+  "description": "Knowledge-graph memory MCP for persistent facts across Claude sessions.",
+  "ratings": {
+    "documentation": 3,
+    "maintenance": 3,
+    "utility": 4,
+    "trust": 3
+  },
+  "evidence": [
+    "https://github.com/modelcontextprotocol/servers/blob/main/src/memory/README.md"
+  ],
+  "compatibleClients": ["claude-code", "cursor", "claude-desktop", "windsurf"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

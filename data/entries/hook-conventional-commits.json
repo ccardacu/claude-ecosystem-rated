@@ -1,0 +1,19 @@
+{
+  "id": "hook-conventional-commits",
+  "name": "Conventional Commits Hook Pattern",
+  "url": "https://docs.cursor.com/en/agent/hooks",
+  "category": "hook",
+  "description": "Cursor hooks pattern for enforcing conventional commit messages before git commit.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 4,
+    "utility": 4,
+    "trust": 5
+  },
+  "evidence": [
+    "https://docs.cursor.com/en/agent/hooks"
+  ],
+  "compatibleClients": ["cursor"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

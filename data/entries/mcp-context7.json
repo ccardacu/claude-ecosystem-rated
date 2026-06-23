@@ -1,0 +1,21 @@
+{
+  "id": "mcp-context7",
+  "name": "Context7 MCP",
+  "url": "https://github.com/upstash/context7",
+  "repo": "https://github.com/upstash/context7",
+  "category": "mcp-server",
+  "description": "Up-to-date library and framework documentation injected into LLM context via MCP.",
+  "ratings": {
+    "documentation": 4,
+    "maintenance": 4,
+    "utility": 5,
+    "trust": 4
+  },
+  "evidence": [
+    "https://github.com/upstash/context7#readme",
+    "https://context7.com"
+  ],
+  "compatibleClients": ["claude-code", "cursor", "windsurf"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}

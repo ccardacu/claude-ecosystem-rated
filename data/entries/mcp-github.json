@@ -1,0 +1,21 @@
+{
+  "id": "mcp-github",
+  "name": "GitHub MCP Server",
+  "url": "https://github.com/github/github-mcp-server",
+  "repo": "https://github.com/github/github-mcp-server",
+  "category": "mcp-server",
+  "description": "Official GitHub MCP server for repos, issues, PRs, and Actions from Claude clients.",
+  "ratings": {
+    "documentation": 5,
+    "maintenance": 5,
+    "utility": 5,
+    "trust": 5
+  },
+  "evidence": [
+    "https://github.com/github/github-mcp-server#readme",
+    "https://github.com/github/github-mcp-server/releases"
+  ],
+  "compatibleClients": ["claude-code", "cursor", "claude-desktop", "windsurf"],
+  "lastVerified": "2026-06-23",
+  "submittedBy": "crist"
+}
